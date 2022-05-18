@@ -1,3 +1,3 @@
 # SortingAlgorithmes
-# Here is two logic code for sorting algorithmes: insertion sorting and selection sorting.
+# Here is three logic code for sorting algorithmes: insertion sorting, selection sorting and bubble sorting.
 
