@@ -1,3 +1,3 @@
 # SortingAlgorithmes
-# Here is six logic code for sorting algorithmes: insertion sorting, selection sorting, shell sorting, bubble sorting, counting sorting and cockteil sorting.
+# Here are seven logic code for sorting algorithmes: insertion sorting, selection sorting, shell sorting, bubble sorting, counting sorting, heap sorting and cockteil sorting.
 
